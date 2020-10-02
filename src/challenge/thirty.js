@@ -3,7 +3,7 @@ import Footer from '../components/Footer'
 
 const Thirty = () => {
     return (
-        <>
+        <React.Fragment>
             <div style={{ background: "rgba(0,0,255,0.4)", margin: '0', padding: '40px' }}>
                 <h2 style={{ textAlign: "center" }}>The #30DaysChallenge Honorable Mentions Wall</h2>
                 <br />
@@ -12,7 +12,7 @@ const Thirty = () => {
                 <p style={{ textAlign: "center" }}>Loading...</p>
             </div>
             <Footer />
-        </>
+        </React.Fragment>
     )
 }
 

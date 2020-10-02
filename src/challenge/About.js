@@ -3,7 +3,7 @@ import Footer from '../components/Footer'
 
 const About = () => {
     return (
-        <>
+        <React.Fragment>
             {/* // "build": "CI= react-scripts build", */}
             <div style={{ textAlign: "justify", padding: "40px", background: 'rgba(0,0,255,0.4)', margin: '0', fontFamily: "monospace" }}>
                 <h2>What's Bible Challenge?</h2>
@@ -16,7 +16,7 @@ const About = () => {
                 <p>Studies have shown that for your brain to form and recognize new habits, repetition is key! Usually it takes anywhere from 21-30 days. Of course the more days the better :) Not only will the habit of studying get easier the deeper into your 30 days, 60 days etc. you get, you will also reap the rewards of how much progress you make. You can really get a lot done in 30 minutes a day for 30 days, 60 days etc.</p>
             </div>
             <Footer />
-        </>
+        </React.Fragment>
     )
 }
 
