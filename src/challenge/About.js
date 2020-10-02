@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 const About = () => {
     return (
         <>
+            {/* // "build": "CI= react-scripts build", */}
             <div style={{ textAlign: "justify", padding: "40px", background: 'rgba(0,0,255,0.4)', margin: '0', fontFamily: "monospace" }}>
                 <h2>What's Bible Challenge?</h2>
                 <p>The goal is to build a solid reading habit. In a way that's attainable and realistic.</p>
