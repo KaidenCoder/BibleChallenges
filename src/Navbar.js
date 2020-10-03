@@ -10,7 +10,6 @@ const Navbar = () => {
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div className="navbar-nav mx-auto">
                     <NavLink className="nav-link" exact to="/">30DaysChallenge</NavLink>
-                    <NavLink className="nav-link" exact to="/sixty">60DaysChallenge</NavLink>
                     <NavLink className="nav-link" exact to="/about">About</NavLink>
 
                 </div>
