@@ -6,6 +6,7 @@ import {
 
 import About from './challenge/About';
 import Sixty from './challenge/sixty';
+import Testimonials from './challenge/Testimonials';
 import Thirty from './challenge/thirty';
 import Header from './components/Header';
 import Navbar from './Navbar';
@@ -17,7 +18,7 @@ const App = () => {
       <Navbar />
       <Header />
       <Route exact path='/' component={Thirty} />
-      <Route exact path='/sixty' component={Sixty} />
+      <Route exact path='/testimonials' component={Testimonials} />
       <Route exact path='/about' component={About} />
     </Router>
   );
