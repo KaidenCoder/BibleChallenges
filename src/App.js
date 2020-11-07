@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 
 import About from './challenge/About';
+import Reviews from './challenge/Reviews';
 import Sixty from './challenge/sixty';
 import Testimonials from './challenge/Testimonials';
 import Thirty from './challenge/thirty';
@@ -18,7 +19,7 @@ const App = () => {
       <Navbar />
       <Header />
       <Route exact path='/' component={Thirty} />
-      <Route exact path='/testimonials' component={Testimonials} />
+      <Route exact path='/testimonials' component={Reviews} />
       <Route exact path='/about' component={About} />
     </Router>
   );
