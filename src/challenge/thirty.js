@@ -12,7 +12,7 @@ const Thirty = () => {
                 <div className="row mx-md-n3" style={{ background: "rgba(255,255,255,0.8)", color: "rgba(0,0,0,0.7)" }}>
                     <div className="col px-md-5"><div className="p-2 border-none ">Khaidem Sandip</div></div>
                     <div className="col px-md-5"><div className="p-2 border-none ">Julia Kamei</div></div>
-                    <div className="col px-md-5"><div className="p-2 border-none ">Prescilla Seram</div></div>
+                    <div className="col px-md-5"><div className="p-2 border-none ">Prescilla Singha</div></div>
                 </div>
             </div>
             <Reviews />

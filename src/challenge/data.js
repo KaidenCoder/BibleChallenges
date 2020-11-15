@@ -13,9 +13,9 @@ const secreviews = [
     },
     {
         id: 3,
-        name: 'Demo',
-        text: "For the gate is narrow and the way is hard that leads to life, and those who find it are few.",
-        date: '4th Nov, 2020'
+        name: 'Prescilla Singha',
+        text: "I'm thankful to God that I could participate in this kind of Bible challenge. It was a wonderful experience, and through that, I learned many things. It was also interesting because many other people shared their everyday challenge. It made us thorough the Bible more deeply. I hope whoever participates in the future will also be blessed like me.",
+        date: '14th Nov, 2020'
     },
 ]
 
