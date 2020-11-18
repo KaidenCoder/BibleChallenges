@@ -17,6 +17,12 @@ const secreviews = [
         text: "I'm thankful to God that I could participate in this kind of Bible challenge. It was a wonderful experience, and through that, I learned many things. It was also interesting because many other people shared their everyday challenge. It made us thorough the Bible more deeply. I hope whoever participates in the future will also be blessed like me.",
         date: '14th Nov, 2020'
     },
+    {
+        id: 4,
+        name: 'Vision Hanse',
+        text: "It's a great experience, blessed to be part of it. A big thanks to Bro Sandip for the initiative and invitation. It's a reminder for me and to all of us the importance of His word in our lives. May we continue to grow and dwell in His Word. May His Word be a lamp unto our feet and a light into our path (Psalm 119:105).",
+        date: '18th Nov, 2020'
+    },
 ]
 
 export default secreviews
