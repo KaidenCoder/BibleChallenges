@@ -28,6 +28,12 @@ const secreviews = [
         name: 'MT Sungte',
         text: "It has been a blessing for me to join this 30 Days Bible Challenge. Since I started to join this challenge, I set a particular time for Bible study and meditation. It helps me mould my spiritual life and makes me understand God's will and purpose revealed for us.",
         date: '23rd Dec 2020'
+    },
+    {
+        id: 6,
+        name: 'Kago Kanya',
+        text: "I'm thankful to God that he has provided us with His words to guide us. The Bible taught me that God is not only our Almighty God, but He cares about the tiniest details of our lives. He gives me the comfort that no one can provide. He provides peace that no one can provide. I want to know Him more. Even though I'm not perfect, but I believe He is changing me every day. I'm nothing without Jesus. All glory to God.",
+        date: '2nd Jan 2020'
     }
 ]
 
