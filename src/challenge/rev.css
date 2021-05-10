@@ -249,13 +249,16 @@ main {
     font-size: 0.7rem;
 }
 
+
+
 .info {
     margin-bottom: 0.75rem;
-    background-color: var(--clr-primary-10);
+    background-color: var(--clr-white);
     text-shadow: 1px 1px rgba(0, 0, 0, 0.2);
-    padding: 20px;
-    color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    color: rgba(0, 0, 0, 1);
     font-size: larger;
+    letter-spacing: normal;
     text-justify: auto;
     font-size: large;
 }
