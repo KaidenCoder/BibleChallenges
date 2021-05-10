@@ -46,6 +46,18 @@ const secreviews = [
         name: 'Sohiam',
         text: "It's the most encouraging part of reading your Bible every day. I'm so grateful that I'm doing this. I'm also really thankful to one of my sister from different mothers. She has encouraged a lot for this valuable experience towards growing more like Christ. I want to promote almost everyone who hasn't started yet. Please do. It will be a blessing that you'll endure the whole of your living.",
         date: '8th May 2021'
+    },
+    {
+        id: 9,
+        name: 'Jessica Gangmei',
+        text: "Hi! I'm Jessica, studying in class 3. Today, i.e.,10th May '21, is my #37 Bible reading challenge day. I've completed reading the Book of John and now reading Galatians. Please pray for me that I grow in God's grace and knowledge! Thank you to the forerunners. God bless! ",
+        date: '10th May 2021'
+    },
+    {
+        id: 10,
+        name: 'G. Elizabeth Rongmei',
+        text: "Hi everyone! I'm Elizabeth from Binnakandi-2, studying in class 3. I am reading my Bible more after I'd started the challenge. Thank you to the challenge developer. Please pray that I grow more in the Lord in the coming days. God bless all!",
+        date: '10th May 2021'
     }
 ]
 

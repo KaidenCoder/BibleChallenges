@@ -5,7 +5,7 @@ import { FaChevronLeft, FaChevronRight, FaQuoteRight } from 'react-icons/fa';
 
 
 const Reviews = () => {
-    const [index, setIndex] = useState(7)
+    const [index, setIndex] = useState(9)
 
     const { name, text, date } = secreview[index]
 
