@@ -34,6 +34,18 @@ const secreviews = [
         name: 'Kago Kanya',
         text: "I'm thankful to God that he has provided us with His words to guide us. The Bible taught me that God is not only our Almighty God, but He cares about the tiniest details of our lives. He gives me the comfort that no one can provide. He provides peace that no one can provide. I want to know Him more. Even though I'm not perfect, but I believe He is changing me every day. I'm nothing without Jesus. All glory to God.",
         date: '2nd Jan 2021'
+    },
+    {
+        id: 7,
+        name: 'G Sarah Rongmei',
+        text: "I am so grateful to the person who has shared this challenge; this challenge is somewhat addictive. When you start it, there's no end; it is also exciting and challenging to me. I read Bible every day now; it's a blessing to have even a little time with God.\n\nWhenever I am free and just sitting, the only thing that comes to mind is reading Bible. In my personal views, I find that I'm more into this challenge than my books 😄 when I'm down for study; I end up reading the Bible (I don't know it's a good and bad thing) *but will try my best to them both.🌻",
+        date: '8th May 2021'
+    },
+    {
+        id: 8,
+        name: 'Sohiam',
+        text: "It's the most encouraging part of reading your Bible every day. I'm so grateful that I'm doing this. I'm also really thankful to one of my sister from different mothers. She has encouraged a lot for this valuable experience towards growing more like Christ. I want to promote almost everyone who hasn't started yet. Please do. It will be a blessing that you'll endure the whole of your living.",
+        date: '8th May 2021'
     }
 ]
 
